@@ -1,0 +1,8 @@
+cd /home/ubuntu/kooli-ai
+
+git add .
+git commit -m "Initial Kooli AI application"
+
+git branch -M main
+git remote add origin https://github.com/alqasmhapip468-dotcom/kooli-ai.git
+git push -u origin main
